@@ -1,0 +1,1 @@
+ruby greet.rb Alice Bob
